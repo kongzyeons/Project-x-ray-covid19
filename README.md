@@ -1,3 +1,3 @@
-# Project-x-ray-covid19
+# Project x-ray covid19
 senior project
 
