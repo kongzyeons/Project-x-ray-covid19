@@ -1,6 +1,6 @@
-# Project x-ray covid19
+# Senior project
 
-## Senior project
+## Project x-ray covid19
 
 ![covid19_160085](https://user-images.githubusercontent.com/80037547/118233379-083d0480-b4bc-11eb-8eb4-6b1b8dd5c381.jpg)
 
